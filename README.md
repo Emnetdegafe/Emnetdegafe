@@ -5,4 +5,5 @@ I am currently working on two projects, my personal profile website and a collab
   
   ***
   
-  "*Be comfortable being uncomfortable. That means you're growing*". Rode Hairston
+  "*Be comfortable being uncomfortable.That means you're growing*". 
+                                               Rode Hairston
