@@ -1,7 +1,6 @@
 # Hi there, I'm Emnet :wave:
 
-I am a recent full-stack web development graduate from Codaissure Code Academy.
-I am currently working on two projects, my personal profile website and a collaborative project, [The Idealist-Platform](https://github.com/dashakrolik/Idealists-client).
+I am a recent full-stack web development graduate from Codaissure Code Academy. I enjoy working with frontend JS frameworks such as React. My interestes lies both in the design and functionality of UIs. Currently, I am working on some projects while also looking for my next challenge as a junior frontend developer. 
   
   ***
   
